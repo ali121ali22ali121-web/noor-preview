@@ -1,0 +1,19 @@
+exclude:
+  - _headers
+  - _redirects
+  - about
+  - about-dr-fatima
+  - assets
+  - book
+  - booking
+  - contact
+  - cookie-policy
+  - cookies
+  - laser-hair-removal
+  - lines-wrinkles-consultation
+  - pricing
+  - privacy
+  - privacy-policy
+  - sitemap.xml
+  - terms
+  - terms-conditions
